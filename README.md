@@ -7,6 +7,7 @@
 
 
  I'm currently studying Cukurova University and working as a software engineer at Dinamik Yazılım <br>
+ I'm developing projects with ASP.NET MVC, .NET core and Javascript. In addition to these, I see myself as someone who is open to all kinds of development and learning in the field of software.
  
 <p align="center">
 <h3 align="left">Connect with me:</h3>
