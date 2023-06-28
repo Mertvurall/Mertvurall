@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mertvurall&label=Profile%20views&color=0e75b6&style=flat" alt="Mertvurall" /> </p>
 
 
- I'm currently studying Cukurova University and working as a software engineer at Dinamik Yazılım <br>
+ I'm currently studying Cukurova University and working as a software engineer at Dinamik Yazılım <br><br>
  I'm developing projects with ASP.NET MVC, .NET core and Javascript. In addition to these, I see myself as someone who is open to all kinds of development and learning in the field of software.
  
 <p align="center">
